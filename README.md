@@ -7,11 +7,11 @@ AI, ML, and DL are defined as follows:
 models.
 3. Deep Learning: Subset of machine learning that imitate the functioning of human brain to solve
 problems.
-The relationship between AI, ML, and DL can be visualized as shown in Figure 1.1
-The relationship between AI, ML, and DL shown in Figure 1.1 is not accepted by all. There is another
+The relationship between AI, ML, and DL can be visualized.
+The relationship between AI, ML, and DL is not accepted by all. There is another
 school of thought that believes that AI and ML are different (ML is not a subset of AI) with some overlap.
 The important point is that all of them are algorithms, which are nothing but set of instructions used for
-solving business and social problems.
+solving business and social problems.<br>
 Machine learning is a set of algorithms that have the capability to learn to perform tasks such as
 prediction and classification effectively using data. Learning is achieved using additional data and/or
 additional models. An algorithm can be called a learning algorithm when it improves on a performance
